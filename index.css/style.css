@@ -1,0 +1,55 @@
+#center {
+    text-align: center;
+}
+
+#my_img {
+    width: 25%;
+    height: 40%;
+}
+
+#text1 {
+    margin-top: 0.9%;
+}
+
+.profile {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.85%;
+    margin-bottom: 0.5%;
+    text-align: center;
+    width: 90%;
+    color: rgb(228, 105, 187)
+
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.85%;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+.cnt_img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.85%;
+    margin-bottom: auto;
+    width: 7.35%;
+}
+
+.img_skill {
+    
+    margin-right: 10%;
+}
+
+.pp {
+    color: rgb(228, 105, 187)
+}
+
+.bd {
+   border: solid rgb(228, 105, 187) 2px;
+   margin-left: 30%;
+   margin-right: 30%;
+   display: block;
+}
